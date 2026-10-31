@@ -8,7 +8,7 @@ buying margin: how much of the forecast you can count on, and how much extra to 
 Scope: GB national wind generation, Elexon BMRS data, purchase decisions made in January 2026
 (delivery days 2 Jan to 1 Feb 2026).
 
-**Live app:** _add Vercel URL here_
+**Live app:** https://wf7kq.vercel.app
 
 ## What it shows
 

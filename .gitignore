@@ -4,3 +4,4 @@ node_modules/
 frontend/dist/
 .vercel/
 CLAUDE.md
+.vercel
